@@ -1,0 +1,21 @@
+{
+  "name": "relation_graph",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "element-plus": "^2.3.6",
+    "relation-graph": "^2.0.26",
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "gh-pages": "^5.0.0",
+    "vite": "^4.1.4"
+  }
+}
